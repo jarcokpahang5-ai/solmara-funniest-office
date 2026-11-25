@@ -13,9 +13,9 @@ import sys
 from pathlib import Path
 
 JOKE = (
-    "I told my boss the meeting could have been an email \u2014 "
-    "so now he emails me the meeting invite, "
-    "then calls a meeting to discuss the email."
+    "I told my boss this meeting could've been an email \u2014 "
+    "so he emailed me the invite, "
+    "then scheduled a meeting to discuss the email about the meeting."
 )
 
 MAX_CHARS = 200
